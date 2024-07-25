@@ -15,11 +15,10 @@ Deriving our work from the [USCO Fair Use Database](https://www.copyright.gov/fa
 ```
 .
 ├── README.md
-├── code
+├── Code
 │   ├── R
-├── data
-├── docs
-└── figures
+├── Data
+└── Figures
     ├── Initial_Figures
 ```
 
